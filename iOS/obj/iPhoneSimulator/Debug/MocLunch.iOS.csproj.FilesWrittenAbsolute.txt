@@ -1,0 +1,17 @@
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/Prorokus/Projects/MocLunch/iOS/bin/iPhoneSimulator/Debug/MocLunch.iOS.exe.mdb
+/Users/Prorokus/Projects/MocLunch/iOS/bin/iPhoneSimulator/Debug/MocLunch.iOS.exe
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/MocLunch.iOS.exe
+/Users/Prorokus/Projects/MocLunch/iOS/obj/iPhoneSimulator/Debug/MocLunch.iOS.exe.mdb
+/Users/Prorokus/Projects/MocLunch/iOS/bin/iPhoneSimulator/Debug/MocLunch.dll
+/Users/Prorokus/Projects/MocLunch/iOS/bin/iPhoneSimulator/Debug/MocLunch.dll.mdb
